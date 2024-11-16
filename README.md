@@ -1,17 +1,15 @@
-![Repo-Image](https://druffko.gg/github-images/twitchbot.png)
-
 <div align="center">
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/druffko/twitch-restream-bot?include_prereleases)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/massimo-rnd/twitch-restream-bot?include_prereleases)
 
 ![.NET Version](https://img.shields.io/badge/stability-testing-yellow)
-![GitHub last commit](https://img.shields.io/github/last-commit/druffko/twitch-restream-bot)
+![GitHub last commit](https://img.shields.io/github/last-commit/massimo-rnd/twitch-restream-bot)
 
   <br>
 
-  ![GitHub All Releases](https://img.shields.io/github/downloads/druffko/twitch-restream-bot/total)
-  ![GitHub closed issues](https://img.shields.io/github/issues-closed/druffko/twitch-restream-bot)
-  ![GitHub issues](https://img.shields.io/github/issues/druffko/twitch-restream-bot)
+  ![GitHub All Releases](https://img.shields.io/github/downloads/massimo-rnd/twitch-restream-bot/total)
+  ![GitHub closed issues](https://img.shields.io/github/issues-closed/massimo-rnd/twitch-restream-bot)
+  ![GitHub issues](https://img.shields.io/github/issues/massimo-rnd/twitch-restream-bot)
   
   <h1>Twitch Restream Bot</h1>
   <p>
@@ -46,7 +44,7 @@ Twitch Restream Bot is A Python script that automatically starts a restream of a
 
 ### Download the latest version
 
-To start off, please head to the [releases page](https://github.com/druffko/twitch-restream-bot/releases) and download the latest release version.
+To start off, please head to the [releases page](https://github.com/massimo-rnd/twitch-restream-bot/releases) and download the latest release version.
 
 ### Setting Up OBS
 Please make sure to have the OBS Websocket Plugin installed.
@@ -85,8 +83,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-- **druffko** - [@druffko](https://twitter.com/druffko) - hi@druffko.gg
-- **Project Link** - https://github.com/druffko/twitch-restream-bot
+- **massimo-rnd** - [@massimo_rnd](https://x.com/massimo_rnd) - hi@massimo.gg
+- **Project Link** - https://github.com/massimo-rnd/twitch-restream-bot
 
 Feel free to reach out if you have any questions or suggestions!
 
